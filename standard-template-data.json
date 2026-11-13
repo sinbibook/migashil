@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-11-12T07:05:50.299790759Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-11-13T09:02:03.485724003Z",
     "templateType": "trip_a",
     "propertyId": "4ff2030d-092c-4074-848a-b89168462cb7",
     "homepageId": "01a1a039-e39c-7daa-8e8a-2502b55d7e09"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의\n※ 11시부터 15시까지 펜션청소시간이므로 펜션의 원활한 운영을 위해 입/퇴실 시간은 꼭 지켜주세요.\n※ 기준 인원 초과 시 추가 요금 20,000원 발생",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의\n※ 11시부터 15시까지 펜션청소시간이므로 펜션의 원활한 운영을 위해 입/퇴실 시간은 꼭 지켜주세요.\n※ 기준 인원 초과 시 추가 요금 20,000원 발생\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n※기준인원 초과시 추가요금 20,000 현장결제\n\n[개별바베큐]\n[숯불바베큐]\n- 이용 객실: 독채룸\n- 이용 장소: 야외 데크\n- 이용 요금: 4인 기준 30,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 인원 추가 시 1인 당 5,000원\n※ 이용 시간 30분~1시간 전에 신청\n※ 숯/그릴 개인 지참 불가\n\n[원적외선그릴]\n- 이용 객실: 201호~302호\n- 이용 장소: 객실 내 테라스 \n- 이용 요금: 4인 기준 20,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 인원 추가 시 1인 당 5,000원\n※ 이용 시간 30분~1시간 전에 신청\n※ 숯/그릴 개인 지참 불가\n\n[불멍]\n- 이용 객실: 독채룸\n- 이용 요금: 20,000원 (1박기준/현장결제)\n※ 이용 시 사전 문의 필수\n\n[부대시설]\n- 상비약 구비(소화제, 타이레놀, 대일밴드 등)\n- 비데 설치\n- 직수 정수기\n\n[노래방]\n- 이용객실: 독채룸\n- 객실 내 노래방(지니노래방) 무제한 사용 가능\n※ 개인 위생관계로 마이크는 제공되지 않습니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 엘리베이터로 전객실 입구까지 연결됩니다\n- 일산화탄소감지기 보유\n- 전 객실 휴대폰 충전기 비치\n- 넷플릭스 이용 가능\n※ 개인계정 이용\n\n[주차장]\n- 주차장 보유\n- 위치: 펜션 앞 넓은 주차 공간\n\n[픽업]\n- 픽업 종류: 마트픽업\n- 장소: 가평 터미널 근처 조은마트, 가평역 할인마트\n※ 1인당 일정금액 구매 시 픽업 가능\n※ 자세한 사항은 마트 직접문의 필요\n\n[교통편]\n- 지도에서 [미가쉴가족펜션] 검색하시면 정확하게 찾아오실 수 있습니다",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문의\n※ 11시부터 15시까지 펜션청소시간이므로 펜션의 원활한 운영을 위해 입/퇴실 시간은 꼭 지켜주세요.\n※ 기준 인원 초과 시 추가 요금 20,000원 발생\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※기준인원 초과시 추가요금 20,000 현장결제\n\n[개별바베큐]\n[숯불바베큐]\n- 이용 객실: 독채룸\n- 이용 장소: 야외 데크\n- 이용 요금: 4인 기준 30,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 인원 추가 시 1인 당 5,000원\n※ 이용 시간 30분~1시간 전에 신청\n※ 숯/그릴 개인 지참 불가\n\n[원적외선그릴]\n- 이용 객실: 201호~302호\n- 이용 장소: 객실 내 테라스 \n- 이용 요금: 4인 기준 20,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n※ 인원 추가 시 1인 당 5,000원\n※ 이용 시간 30분~1시간 전에 신청\n※ 숯/그릴 개인 지참 불가\n\n[불멍]\n- 이용 객실: 독채룸\n- 이용 요금: 20,000원 (1박기준/현장결제)\n※ 이용 시 사전 문의 필수\n\n[부대시설]\n- 상비약 구비(소화제, 타이레놀, 대일밴드 등)\n- 비데 설치\n- 직수 정수기\n\n[노래방]\n- 이용객실: 독채룸\n- 객실 내 노래방(지니노래방) 무제한 사용 가능\n※ 개인 위생관계로 마이크는 제공되지 않습니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 엘리베이터로 전객실 입구까지 연결됩니다\n- 일산화탄소감지기 보유\n- 전 객실 휴대폰 충전기 비치\n- 넷플릭스 이용 가능\n※ 개인계정 이용\n\n[주차장]\n- 주차장 보유\n- 위치: 펜션 앞 넓은 주차 공간\n\n[픽업]\n- 픽업 종류: 마트픽업\n- 장소: 가평 터미널 근처 조은마트, 가평역 할인마트\n※ 1인당 일정금액 구매 시 픽업 가능\n※ 자세한 사항은 마트 직접문의 필요\n\n[교통편]\n- 지도에서 [미가쉴가족펜션] 검색하시면 정확하게 찾아오실 수 있습니다",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -817,7 +817,7 @@
     },
     {
       "id": "39d893e0-f413-40b1-a19a-0358b59578aa",
-      "name": "202호 (개별바베큐/리버뷰)",
+      "name": "202호 (개별바베큐/리버뷰/방2개/화장실2개)",
       "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\r\n강전망, 22.00평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,단체,비데,가족실,개별바비큐,린스,드라이기,바디워시,상비약,비누,샴푸,와이파이,인덕션,일산화탄소 감지기,정수기,전자레인지,커피포트,침대방,타월,테라스,화재 감지기",
       "roomInfo": "",
       "usageGuide": "거실 +주방 + 침대룸 2개 (퀸) + 화장실 2개",
@@ -918,7 +918,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a1ce5a-1a76-7282-a754-4dd3ca88c6a9",
+              "id": "01a1d423-fbbd-7d4d-b02f-8e8a2717e556",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/SRDBVnvFzdtm.jpg",
               "sortOrder": 1,
               "description": "",
@@ -928,7 +928,7 @@
           ],
           "interior": [
             {
-              "id": "01a1ce5a-1a76-7713-8e1e-9055661a595e",
+              "id": "01a1d423-fbbd-7d82-8dce-2f23ed3891a6",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/AbGhUjJ9ZanO.jpg",
               "sortOrder": 2,
               "description": "",
@@ -936,7 +936,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-1a79-7be0-b1f7-74025e4389f1",
+              "id": "01a1d423-fbbd-7dbc-bbf4-d323ffa33067",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/m8rSdIFgX5Kp.jpg",
               "sortOrder": 3,
               "description": "",
@@ -944,7 +944,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-1a79-7ddf-822d-3f9dd603c4eb",
+              "id": "01a1d423-fbbd-7dcd-b65b-bb2949a22c4a",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/TVFYdRsmwfnU.jpg",
               "sortOrder": 4,
               "description": "",
@@ -952,7 +952,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-1a79-7f9b-b0af-50739b9e1399",
+              "id": "01a1d423-fbbd-7df8-9365-3047014d170a",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/TO2UHpN6z9yr.jpg",
               "sortOrder": 5,
               "description": "",
@@ -960,7 +960,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-1a7a-70f6-aeae-5cb1eb54d8f0",
+              "id": "01a1d423-fbbd-7e1e-9827-f141cbb00745",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/8kqOevMfzSjD.jpg",
               "sortOrder": 6,
               "description": "",
@@ -968,7 +968,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-1a7a-724d-ac45-d840d7f61aba",
+              "id": "01a1d423-fbbd-7e44-bafd-0b839c740196",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/Sr1J2ECvzhea.jpg",
               "sortOrder": 7,
               "description": "",
@@ -976,7 +976,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-1a7a-73a1-8b7e-2d0a39f6ce75",
+              "id": "01a1d423-fbbd-7e6b-831d-646a9f53e225",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/gfJLzR3TKqHi.jpg",
               "sortOrder": 8,
               "description": "",
@@ -984,7 +984,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-1a7a-75f4-a448-dde98f6393b9",
+              "id": "01a1d423-fbbd-7eae-983b-611b5523756d",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/fs4GFIvEVOtz.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "7638a974-a0b1-4c91-8837-322662391b58",
-      "name": "302호 (개별바베큐/리버뷰)",
+      "name": "302호 (개별바베큐/리버뷰/방2개/화장실2개",
       "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\r\n강전망, 22.00평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,OTT,단체,비데,가족실,개별바비큐,린스,드라이기,바디워시,상비약,비누,샴푸,와이파이,인덕션,일산화탄소 감지기,정수기,전자레인지,커피포트,침대방,타월,테라스,화재 감지기",
       "roomInfo": "",
       "usageGuide": "거실 +주방 + 침대룸 2개 (퀸) + 화장실 2개",
@@ -1276,7 +1276,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a1ce5a-187c-739c-859d-b08d8c4a3fb9",
+              "id": "01a1d423-fc2a-7ed6-b0a7-4e1f1a973837",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/gKS21oXR3ncs.jpg",
               "sortOrder": 14,
               "description": "",
@@ -1286,7 +1286,7 @@
           ],
           "interior": [
             {
-              "id": "01a1ce5a-187c-7416-918a-b0d8dbbda45c",
+              "id": "01a1d423-fc2b-71a3-89e7-e14769e88a04",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/RzGwSahH0NM6.jpg",
               "sortOrder": 15,
               "description": "",
@@ -1294,7 +1294,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-187c-7487-903a-37032a7c5129",
+              "id": "01a1d423-fc2b-720e-b53e-f2d3ac472057",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/Dw97kvWzTc2o.jpg",
               "sortOrder": 16,
               "description": "",
@@ -1302,7 +1302,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-187c-74f1-9756-5d455831f01d",
+              "id": "01a1d423-fc2b-7225-a055-a44989cb1ad5",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/w4LWYSrlFcuN.jpg",
               "sortOrder": 17,
               "description": "",
@@ -1310,7 +1310,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-187c-7559-ac1c-6dcc1091a58e",
+              "id": "01a1d423-fc2b-723b-96ba-66bb149f2586",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/1lbMcEfC4qDJ.jpg",
               "sortOrder": 18,
               "description": "",
@@ -1318,7 +1318,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-187c-75ca-ac55-d224f300862a",
+              "id": "01a1d423-fc2b-73d8-bd08-d8bf1af9653f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/pshTjOH3BEPC.jpg",
               "sortOrder": 19,
               "description": "",
@@ -1326,7 +1326,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-187c-7632-83b2-c567687b9998",
+              "id": "01a1d423-fc2b-7400-9f1c-9b72a5f86948",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/GPR1FhqVlzve.jpg",
               "sortOrder": 20,
               "description": "",
@@ -1334,7 +1334,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-187c-76c1-a369-553d6c0cb407",
+              "id": "01a1d423-fc2b-7415-8144-7de005ac0386",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/TR6waudFPV5O.jpg",
               "sortOrder": 21,
               "description": "",
@@ -1342,7 +1342,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-187c-773d-bb6a-932445b26fbc",
+              "id": "01a1d423-fc2b-7426-8c4c-affb5cf74721",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/LJojbvPaM6Ec.jpg",
               "sortOrder": 22,
               "description": "",
@@ -1350,7 +1350,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-187c-7e2e-b973-87989bd11e21",
+              "id": "01a1d423-fc2b-7438-9e9b-637ef4d8b6ac",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/0cDLmu1lnxRq.jpg",
               "sortOrder": 23,
               "description": "",
@@ -1358,7 +1358,7 @@
               "blockId": null
             },
             {
-              "id": "01a1ce5a-187c-7f3e-86d5-df730b467b99",
+              "id": "01a1d423-fc2b-7451-8c02-9b39194e9326",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/22/CmbILfsQplEW.jpg",
               "sortOrder": 24,
               "description": "",
@@ -2105,7 +2105,6 @@
       "roomtypes": [
         {
           "id": "c4357dfd-a9eb-42ef-9f5c-44dece85e642",
-          "name": "독채룸 (개별바베큐/불멍/노래방/리버뷰)",
           "images": [
             {
               "id": "01a1a03a-3646-7249-9aff-dda4c2b4588b",
@@ -2347,7 +2346,6 @@
         },
         {
           "id": "66fa68ae-53d8-4973-9140-cf67870a87d4",
-          "name": "201호 (개별바베큐/리버뷰)",
           "images": [
             {
               "id": "01a1a03a-3841-7416-96ec-fabe165d8b18",
@@ -2508,7 +2506,6 @@
         },
         {
           "id": "39d893e0-f413-40b1-a19a-0358b59578aa",
-          "name": "202호 (개별바베큐/리버뷰)",
           "images": [
             {
               "id": "01a1a03a-30c1-7683-b654-34df13fc570d",
@@ -2669,7 +2666,6 @@
         },
         {
           "id": "b2691c46-096a-481b-80d2-c20a1feac3e8",
-          "name": "301호 (개별바베큐/리버뷰)",
           "images": [
             {
               "id": "01a1a03a-3294-7770-82e1-9d4bb4815105",
@@ -2839,7 +2835,6 @@
         },
         {
           "id": "7638a974-a0b1-4c91-8837-322662391b58",
-          "name": "302호 (개별바베큐/리버뷰)",
           "images": [
             {
               "id": "01a1a03a-3452-79cd-9fdf-cb72113d4e82",
